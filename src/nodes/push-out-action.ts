@@ -1,4 +1,4 @@
-import { Action, STATUS } from "../base-class";
+import { Action, STATUS } from "../base-classes";
 
 export class PushOutAction extends Action {
   count: number = 0;

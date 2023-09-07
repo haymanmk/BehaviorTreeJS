@@ -1,2 +1,2 @@
-export * from "./base-class";
+export * from "./base-classes";
 export * from "./nodes";

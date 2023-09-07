@@ -1,5 +1,5 @@
-import { Action, Composite, EVENTS, STATUS } from "../base-class";
-import { Blackboard } from "../base-class/base";
+import { Action, Composite, EVENTS, STATUS } from "../base-classes";
+import { Blackboard } from "../base-classes/base";
 
 export class Sequence extends Composite {
   constructor(name: string, childrenStorage: Array<Action | Composite>) {
