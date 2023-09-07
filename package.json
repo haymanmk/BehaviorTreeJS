@@ -1,0 +1,19 @@
+{
+  "name": "behaviortreejs",
+  "version": "1.0.0",
+  "description": "This project is dedicated on creating a framework to build a behavior tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haymanmk/BehaviorTreeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haymanmk/BehaviorTreeJS/issues"
+  },
+  "homepage": "https://github.com/haymanmk/BehaviorTreeJS#readme"
+}

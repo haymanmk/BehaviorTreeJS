@@ -1,0 +1,6 @@
+export enum STATUS {
+  INVALID,
+  SUCCESS,
+  FAILURE,
+  RUNNING,
+}
